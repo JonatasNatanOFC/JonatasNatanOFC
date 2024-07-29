@@ -1,60 +1,53 @@
-<img width=100% bottom=50px src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/87b372d5-6a32-4fac-8826-725d2e89809b"/>
+<!--<img width=100% bottom=50px src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/87b372d5-6a32-4fac-8826-725d2e89809b"/>-->
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=3000&size=50&duration=1000&pause=1000&color=AA14F7&center=true&vCenter=true&random=false&width=1000&lines=Welcome!;My+name's+Monique;I'm+from+Brazil;I'm+19+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=3000&size=50&duration=1000&pause=1000&color=f20000&center=true&vCenter=true&random=false&width=1000&lines=Welcome!;My+name's+Natan;I'm+from+Brazil;I'm+20+years+old)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoniqueeSilva&theme=shadow-purple&hide_border=falso&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JonatasNatanOFC&theme=youtube-dark&hide_border=falso&card_width=800)](https://git.io/streak-stats)
 
 </div>
 
 
-<div align="center"> 
-<a href="https://www.instagram.com/monique.sillva_/" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/17c67c40-79b9-4d75-8d36-9132b18f5c21">
-</a>
 
-<a href="mailto:moniquedasilva2005@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/d531558a-9352-42c1-9884-06677fb131e4">
-</a>
-
-<a  href="https://www.linkedin.com/in/monique-da-silva-8b5702290/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/8efde982-51fd-454b-b224-1f7652376cc1">
-</a>
-
-</div>
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MoniqueeSilva?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/JonatasNatanOFC?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=red&dark=true) 
 
 </div>
 
 
-### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/c883464d-fb97-4767-852b-50dcc1847ace">
+## Tecnologias que eu uso
+<div align="center" style="display: inline_block"><br>
+    <img align='center' alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align='center' alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align='center' alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align='center' alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align='center' alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br>
 
-<img align="left" height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/c50ab783-d02d-4ca7-aa4e-d396268a62dc">
+## Entre em contato aqui!
 
-<img align="left"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/81dd7216-9263-4ac4-b98c-0b49a501ace8">
+<div align="center">
+
+
+<a href="https://www.instagram.com/jonatan_gds/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "mailto:work.jonatas.22ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://wa.me/558381634311"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
-
-<br>
-<br> 
-<br>
 <br>
 <br>
 <br> 
 
 
-<h2 align="left"> Studying in this moment: </h2>
+<!--<h2 align="left"> Studying in this moment: </h2>
 
 
 <div align="left"> 
@@ -67,7 +60,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/619e295b-b0b5-4547-9e5d-c13b1b06539f">
 
-</div>
+</div>--> 
 
 <br>
 <br>
