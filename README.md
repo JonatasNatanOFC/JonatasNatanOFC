@@ -1,4 +1,4 @@
-<!--<img width=100% bottom=50px src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/87b372d5-6a32-4fac-8826-725d2e89809b"/>-->
+<img width=100% bottom=50px src="https://github.com/JonatasNatanOFC/JonatasNatanOFC/blob/main/edff9344-027f-483a-bda9-833d69f0c4be-cover.png"/>
 <br>
 <br> 
 
